@@ -175,12 +175,12 @@
     "prettier": "^2.8.8",
     "release-it": "^15.10.3",
     "request": "^2.88.2",
-    "rollup": "2.79.1",
+    "rollup": "2.79.2",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-cleanup": "^3.2.1",
     "sass": "^1.62.1",
     "star-rating.js": "^4.3.0",
-    "tinymce": "^6.4.2",
+    "tinymce": "^7.2.0",
     "tom-select": "^2.2.2",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
@@ -209,7 +209,7 @@
     "nouislider": "^15.7.0",
     "plyr": "^3.7.8",
     "star-rating.js": "^4.3.0",
-    "tinymce": "^6.4.2",
+    "tinymce": "^7.2.0",
     "tom-select": "^2.2.2"
   },
   "peerDependenciesMeta": {
