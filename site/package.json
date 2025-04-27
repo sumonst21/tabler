@@ -73,16 +73,16 @@
     "mdx-annotations": "^0.1.3",
     "minimatch": "^9.0.3",
     "modern-async": "^1.1.3",
-    "next": "^13.5.3",
-    "next-auth": "^4.22.3",
+    "next": "^14.2.25",
+    "next-auth": "^4.24.5",
     "next-contentlayer": "^0.3.4",
     "next-mdx-remote": "^4.4.1",
     "next-sitemap": "^4.1.8",
     "nextjs-toploader": "^1.4.2",
     "opentype.js": "^1.3.4",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.32",
     "prettier": "3.0.0",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "react": "^18.2.0",
     "react-children-utilities": "^2.9.0",
     "react-dom": "18.2.0",
@@ -111,11 +111,11 @@
     "tinytime": "^0.2.6",
     "typescript": "5.1.6",
     "unist-util-visit": "^5.0.0",
-    "webpack": "^5.88.2",
+    "webpack": "^5.94.0",
     "yaml": "^2.3.2"
   },
   "devDependencies": {
     "@t3-oss/env-nextjs": "^0.6.0",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   }
 }
